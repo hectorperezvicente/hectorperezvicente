@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👨‍💻 Software Architect & AI Engineer | Computer Engineering Student
 
-<!--
-**hectorperezvicente/hectorperezvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "La excelencia no es un acto, sino un hábito. Mi objetivo es elevar los estándares de la ingeniería de software mediante la hibridación de arquitecturas robustas e inteligencia artificial avanzada."
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de **Ingeniería Informática en la Universidad de Vigo (Campus de Ourense)**, actualmente posicionado en el top de mi promoción. Me caracterizo por ser una persona que aprende rápido y se adapta con facilidad a los cambios tecnológicos.
+
+Mi visión es clara: alcanzar la maestría técnica siguiendo principios de **Arquitectura Limpia (Clean Architecture)** y **SOLID**, inspirándome en referentes de la industria como Alan de Gentleman Programming, pero buscando siempre superar los límites establecidos.
+
+---
+
+## 🛠️ Especialización y Stack Tecnológico
+
+Mi enfoque actual se centra en la **Hibridación de Arquitectura de Software e IA**:
+
+- **Arquitectura:** Diseño de sistemas desacoplados, DDD (Domain-Driven Design), Arquitecturas Hexagonales y excelencia en el código.
+- **Inteligencia Artificial:** Implementación de sistemas RAG (Retrieval-Augmented Generation), orquestación de Agentes Autónomos y MLOps.
+- **Tecnologías clave:** - **Eficiencia y Backend:** Rust, Go, Python.
+  - **Frontend & Interfaces:** TypeScript, Next.js (enfocado en experiencias AI-first).
+
+---
+
+## 📈 Mi Visión y Filosofía
+
+Más allá de la programación, busco una vida con propósito y equilibrio:
+
+- **Autenticidad:** Vivir sin máscaras, siendo honesto conmigo mismo y con los demás.
+- **Relaciones:** Las personas son el verdadero tesoro; el éxito es consecuencia del trabajo bien hecho para y con ellas.
+- **Crecimiento:** Enfoque en la libertad financiera mediante inversiones inteligentes y freelancing de alta demanda.
+- **Equilibrio:** Disciplina entre el ejercicio físico, el desarrollo profesional y el descanso necesario.
+
+---
+
+## 🎯 Objetivos Actuales
+
+- [ ] Perfeccionar la implementación de Clean Architecture en entornos productivos de IA.
+- [ ] Escalar mi carrera como freelancer ofreciendo soluciones de ingeniería de alta gama.
+- [ ] Seguir optimizando mi estrategia de inversión para alcanzar mis metas de libertad y relax.
+
+---
+
+## 📫 Conecta conmigo
+
+Si estás interesado en la ingeniería de software de alto nivel, la IA o simplemente quieres intercambiar ideas sobre tecnología e inversión, no dudes en contactarme.
+
+---
+
+*“Viviendo una vida de la cual no me arrepienta en mi lecho de muerte.”*
