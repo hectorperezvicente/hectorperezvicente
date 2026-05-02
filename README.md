@@ -1,4 +1,4 @@
-# 👨‍💻 Software Architect & AI Engineer | Computer Engineering Student
+# 👨‍💻 Computer Engineering Student | Specializing in AI & Software Architecture
 
 > "La excelencia no es un acto, sino un hábito. Mi objetivo es elevar los estándares de la ingeniería de software mediante la hibridación de arquitecturas robustas e inteligencia artificial avanzada."
 
