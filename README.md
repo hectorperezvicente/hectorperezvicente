@@ -6,8 +6,7 @@
 
 Soy estudiante de **Ingeniería Informática en la Universidad de Vigo (Campus de Ourense)**, actualmente posicionado en el top de mi promoción. Me caracterizo por ser una persona que aprende rápido y se adapta con facilidad a los cambios tecnológicos.
 
-Mi visión es clara: alcanzar la maestría técnica siguiendo principios de **Arquitectura Limpia (Clean Architecture)** y **SOLID**, inspirándome en referentes de la industria como Alan de Gentleman Programming, pero buscando siempre superar los límites establecidos.
-
+Mi visión es clara: alcanzar la maestría técnica siguiendo principios de **Arquitectura Limpia (Clean Architecture)** y **SOLID**.
 ---
 
 ## 🛠️ Especialización y Stack Tecnológico
