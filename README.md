@@ -14,7 +14,7 @@ Mi visión es clara: alcanzar la maestría técnica siguiendo principios de **Ar
 Mi enfoque actual se centra en la **Hibridación de Arquitectura de Software e IA**:
 
 - **Arquitectura:** Diseño de sistemas desacoplados, DDD (Domain-Driven Design), Arquitecturas Hexagonales y excelencia en el código.
-- **Inteligencia Artificial:** Implementación de sistemas RAG (Retrieval-Augmented Generation), orquestación de Agentes Autónomos y MLOps.
+- **Inteligencia Artificial:** Implementación de sistemas RAG (Retrieval-Augmented Generation), orquestación de Agentes Autónomos y MLOps, aplicando metodologias como el SDD(Spec-Driven Development)
 - **Tecnologías clave:** - **Eficiencia y Backend:** Rust, Go, Python.
   - **Frontend & Interfaces:** TypeScript, Next.js (enfocado en experiencias AI-first).
 
