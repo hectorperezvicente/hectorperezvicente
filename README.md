@@ -1,64 +1,37 @@
-# 👨‍💻 Computer Engineering Student | Specializing in AI & Software Architecture
+# Héctor Pérez Vicente
 
-**Estudiante de Ingeniería Informática en la Universidad de Vigo (Campus de Ourense).**
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=700&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+%40+UVigo;Aprendiendo+Arquitectura+de+Software+e+IA+aplicada;Clean+Architecture+%C2%B7+SDD+%C2%B7+RAG+%C2%B7+Orquestadores+de+IA;Building+slowly.+Learning+deeply." alt="Typing SVG" />
+</p>
 
-Soy un apasionado del desarrollo de software bien diseñado. Mi objetivo actual es formarme como un ingeniero sólido, capaz de unir las bases de la buena arquitectura de software con el potencial de la Inteligencia Artificial moderna.
-
-Me considero alguien que aprende rápido y disfruta entendiendo el "por qué" detrás de cada tecnología, no solo el "cómo".
-
----
-
-## 🚀 En qué estoy enfocado actualmente
-
-Ahora mismo dedico mi tiempo libre a investigar y aplicar metodologías y tecnologías avanzadas:
-
-- **Arquitectura de Software:** Estudiando a fondo Clean Architecture, principios SOLID y Arquitectura Hexagonal para crear sistemas escalables y mantenibles.
-- **Inteligencia Artificial:** Explorando orquestadores de IA, flujos de agentes autónomos y sistemas RAG (Retrieval-Augmented Generation).
-- **Metodologías:** Aprendiendo y aplicando **SDD (Spec-Driven Development)** para guiar el desarrollo desde las especificaciones.
-- **Backend & Eficiencia:** Profundizando en lenguajes como Python, Go y Rust para construir la lógica y las integraciones detrás de la IA.
-
----
-
-## 🛠 Stack Tecnológico y Herramientas
-
-*(Lo que estoy aprendiendo y utilizando en mis proyectos)*
-
-**Desarrollo & Backend**  
-Python · Go · TypeScript · Rust (Básico)
-
-**Arquitectura & Metodologías**  
-Clean Architecture · DDD · Spec-Driven Development (SDD)
-
-**IA & Datos**  
-Integración de LLMs · RAG · Orquestadores de IA · PostgreSQL
-
-**Ecosistema Web**  
-Next.js · FastAPI · APIs REST
-
----
-
-## 📌 Proyectos y Prácticas
-
-Aquí iré subiendo los proyectos donde pongo a prueba estos conceptos arquitectónicos y de IA:
+Estudiante de Ingeniería Informática.  
+Aprendiendo **arquitectura de software**, **backend** e **IA aplicada**.
 <!--
-- 🔹 **[Nombre del Proyecto 1] (En desarrollo):** [Descripción honesta, ej: Una prueba de concepto integrando un orquestador de IA con Clean Architecture usando Python].
-- 🔹 **[Nombre del Proyecto 2]:** [Descripción breve y sincera].
+## Lo que estoy construyendo
+
+| Emo­te | Proyecto | Descripción |   |
+|---|---|---|---| 
+| 🧠 | [NombreProyecto1](https://github.com/[TU_USUARIO]/[REPO_1]) | Proyecto centrado en RAG, LLMs o recuperación de conocimiento. | ![Stars](https://img.shields.io/github/stars/[TU_USUARIO]/[REPO_1]?style=social) |
+| ⚙️ | [NombreProyecto2](https://github.com/[TU_USUARIO]/[REPO_2]) | Backend o sistema modular aplicando Clean Architecture, DDD o APIs. | ![Stars](https://img.shields.io/github/stars/[TU_USUARIO]/[REPO_2]?style=social) |
+| 🧪 | [NombreProyecto3](https://github.com/[TU_USUARIO]/[REPO_3]) | Laboratorio personal para probar SDD, agentes, automatización o nuevas ideas. | ![Stars](https://img.shields.io/github/stars/[TU_USUARIO]/[REPO_3]?style=social) |
 -->
----
+## Stack
 
-## 🎯 Mis Objetivos a Corto/Medio Plazo
+**Backend** — Python · Go · FastAPI · PostgreSQL  
+**IA** — LLM APIs · RAG · Orquestadores  
+**Web** — Next.js · TypeScript  
+**Tools** — Git · Docker · Linux
 
-1. Dominar la implementación de IA en entornos de software tradicionales sin comprometer la calidad del código.
-2. Conseguir mis primeras oportunidades como freelancer o en prácticas donde pueda aportar valor y seguir aprendiendo de profesionales con experiencia.
-3. Seguir en el top de mi promoción universitaria manteniendo un buen equilibrio personal.
+## Ahora mismo
 
----
+- 🧠 Estudiando arquitectura de software
+- 🤖 Explorando IA aplicada a producto
+- ⚙️ Construyendo proyectos para unir backend + IA
 
-## 📫 Conecta conmigo
+## Contacto
 
-Siempre estoy abierto a charlar sobre arquitectura de software, IA, o a recibir feedback de desarrolladores con más experiencia.
+- Email: hectorpv.official@gmail.com
 
+**Fundamentos antes que hype. Sistemas antes que prompts.**
 
-- **Email:** hectorpv.official@gmail.com
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=[TU_USUARIO]&theme=tokyonight&hide_border=true&locale=es)
