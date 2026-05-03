@@ -18,8 +18,11 @@ Aprendiendo **arquitectura de software**, **backend** e **IA aplicada**.
 ## Stack
 
 **Backend** — Python · Go · FastAPI · PostgreSQL
+
 **FrontEnd** — Next.js · TypeScript 
-**IA** — LLM APIs · RAG · Orquestadores   
+
+**IA** — LLM APIs · RAG · Orquestadores 
+
 **Tools** — Git · Docker · Windows
 
 ## Ahora mismo
