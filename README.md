@@ -20,7 +20,7 @@ Aprendiendo **arquitectura de software**, **backend** e **IA aplicada**.
 **Backend** — Python · Go · FastAPI · PostgreSQL  
 **IA** — LLM APIs · RAG · Orquestadores  
 **Web** — Next.js · TypeScript  
-**Tools** — Git · Docker · Linux
+**Tools** — Git · Docker · Windows
 
 ## Ahora mismo
 
