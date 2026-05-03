@@ -34,4 +34,4 @@ Aprendiendo **arquitectura de software**, **backend** e **IA aplicada**.
 
 **Fundamentos antes que hype. Sistemas antes que prompts.**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=[TU_USUARIO]&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Streak](https://streak-stats.demolab.com?user=hectorperezvicente&theme=tokyonight&hide_border=true&locale=es)
