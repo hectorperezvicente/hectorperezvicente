@@ -1,49 +1,64 @@
 # 👨‍💻 Computer Engineering Student | Specializing in AI & Software Architecture
 
-> "La excelencia no es un acto, sino un hábito. Mi objetivo es elevar los estándares de la ingeniería de software mediante la hibridación de arquitecturas robustas e inteligencia artificial avanzada."
+**Estudiante de Ingeniería Informática en la Universidad de Vigo (Campus de Ourense).**
 
-## 🚀 Sobre mí
+Soy un apasionado del desarrollo de software bien diseñado. Mi objetivo actual es formarme como un ingeniero sólido, capaz de unir las bases de la buena arquitectura de software con el potencial de la Inteligencia Artificial moderna.
 
-Soy estudiante de **Ingeniería Informática en la Universidad de Vigo (Campus de Ourense)**, actualmente posicionado en el top de mi promoción. Me caracterizo por ser una persona que aprende rápido y se adapta con facilidad a los cambios tecnológicos.
-
-Mi visión es clara: alcanzar la maestría técnica siguiendo principios de **Arquitectura Limpia (Clean Architecture)** y **SOLID**.
----
-
-## 🛠️ Especialización y Stack Tecnológico
-
-Mi enfoque actual se centra en la **Hibridación de Arquitectura de Software e IA**:
-
-- **Arquitectura:** Diseño de sistemas desacoplados, DDD (Domain-Driven Design), Arquitecturas Hexagonales y excelencia en el código.
-- **Inteligencia Artificial:** Implementación de sistemas RAG (Retrieval-Augmented Generation), orquestación de Agentes Autónomos y MLOps. 
-  - **Aplicando metodologias actuales:** SDD (Spec-Driven Development)
-- **Tecnologías clave:** - **Eficiencia y Backend:** Rust, Go, Python.
-  - **Frontend & Interfaces:** TypeScript, Next.js (enfocado en experiencias AI-first).
+Me considero alguien que aprende rápido y disfruta entendiendo el "por qué" detrás de cada tecnología, no solo el "cómo".
 
 ---
 
-## 📈 Mi Visión y Filosofía
+## 🚀 En qué estoy enfocado actualmente
 
-Más allá de la programación, busco una vida con propósito y equilibrio:
+Ahora mismo dedico mi tiempo libre a investigar y aplicar metodologías y tecnologías avanzadas:
 
-- **Autenticidad:** Vivir sin máscaras, siendo honesto conmigo mismo y con los demás.
-- **Relaciones:** Las personas son el verdadero tesoro; el éxito es consecuencia del trabajo bien hecho para y con ellas.
-- **Crecimiento:** Enfoque en la libertad financiera mediante inversiones inteligentes y freelancing de alta demanda.
-- **Equilibrio:** Disciplina entre el ejercicio físico, el desarrollo profesional y el descanso necesario.
+- **Arquitectura de Software:** Estudiando a fondo Clean Architecture, principios SOLID y Arquitectura Hexagonal para crear sistemas escalables y mantenibles.
+- **Inteligencia Artificial:** Explorando orquestadores de IA, flujos de agentes autónomos y sistemas RAG (Retrieval-Augmented Generation).
+- **Metodologías:** Aprendiendo y aplicando **SDD (Spec-Driven Development)** para guiar el desarrollo desde las especificaciones.
+- **Backend & Eficiencia:** Profundizando en lenguajes como Python, Go y Rust para construir la lógica y las integraciones detrás de la IA.
 
 ---
 
-## 🎯 Objetivos Actuales
+## 🛠 Stack Tecnológico y Herramientas
 
-- [ ] Perfeccionar la implementación de Clean Architecture en entornos productivos de IA.
-- [ ] Escalar mi carrera como freelancer ofreciendo soluciones de ingeniería de alta gama.
-- [ ] Seguir optimizando mi estrategia de inversión para alcanzar mis metas de libertad y relax.
+*(Lo que estoy aprendiendo y utilizando en mis proyectos)*
+
+**Desarrollo & Backend**  
+Python · Go · TypeScript · Rust (Básico)
+
+**Arquitectura & Metodologías**  
+Clean Architecture · DDD · Spec-Driven Development (SDD)
+
+**IA & Datos**  
+Integración de LLMs · RAG · Orquestadores de IA · PostgreSQL
+
+**Ecosistema Web**  
+Next.js · FastAPI · APIs REST
+
+---
+
+## 📌 Proyectos y Prácticas
+
+Aquí iré subiendo los proyectos donde pongo a prueba estos conceptos arquitectónicos y de IA:
+<!--
+- 🔹 **[Nombre del Proyecto 1] (En desarrollo):** [Descripción honesta, ej: Una prueba de concepto integrando un orquestador de IA con Clean Architecture usando Python].
+- 🔹 **[Nombre del Proyecto 2]:** [Descripción breve y sincera].
+-->
+---
+
+## 🎯 Mis Objetivos a Corto/Medio Plazo
+
+1. Dominar la implementación de IA en entornos de software tradicionales sin comprometer la calidad del código.
+2. Conseguir mis primeras oportunidades como freelancer o en prácticas donde pueda aportar valor y seguir aprendiendo de profesionales con experiencia.
+3. Seguir en el top de mi promoción universitaria manteniendo un buen equilibrio personal.
 
 ---
 
 ## 📫 Conecta conmigo
 
-Si estás interesado en la ingeniería de software de alto nivel, la IA o simplemente quieres intercambiar ideas sobre tecnología e inversión, no dudes en contactarme.
+Siempre estoy abierto a charlar sobre arquitectura de software, IA, o a recibir feedback de desarrolladores con más experiencia.
 
----
 
-*“Viviendo una vida de la cual no me arrepienta en mi lecho de muerte.”*
+- **Email:** hectorpv.official@gmail.com
+
+
