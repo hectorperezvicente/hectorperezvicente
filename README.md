@@ -9,7 +9,7 @@
 
 <p>
   <em>Computer Engineering @ University of Vigo</em><br/>
-  <em>Software Engineer @ Aerotech Solaris</em>
+  <!--<em>Software Engineer @ Aerotech Solaris</em>-->
 </p>
 
 </div>
