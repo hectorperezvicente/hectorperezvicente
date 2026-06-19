@@ -1,40 +1,79 @@
-# Héctor Pérez Vicente
+<div align="center">
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=700&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+%40+UVigo;Aprendiendo+Arquitectura+de+Software+e+IA+aplicada;Clean+Architecture+%C2%B7+SDD+%C2%B7+RAG+%C2%B7+Orquestadores+de+IA;Building+slowly.+Learning+deeply." alt="Typing SVG" />
+<!-- Banner animado con typing effect -->
+<a href="https://github.com/hectorperezvicente">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+Interfaces+Engineer" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <em>Computer Engineering @ University of Vigo</em><br/>
+  <em>Software Engineer @ Aerotech Solaris</em>
 </p>
 
-Estudiante de Ingeniería Informática.  
-Aprendiendo **arquitectura de software**, **backend** e **IA aplicada**.
+</div>
+
+---
+
+### About
+
+Frontend Developer focused on **scalable architecture** and **AI-powered interfaces**.  
+I build modern web applications where performance, design and intelligence converge.
+
+---
 <!--
-## Lo que estoy construyendo
+### Stack
 
-| Emo­te | Proyecto | Descripción |   |
-|---|---|---|---| 
-| 🧠 | [NombreProyecto1](https://github.com/[TU_USUARIO]/[REPO_1]) | Proyecto centrado en RAG, LLMs o recuperación de conocimiento. | ![Stars](https://img.shields.io/github/stars/[TU_USUARIO]/[REPO_1]?style=social) |
-| ⚙️ | [NombreProyecto2](https://github.com/[TU_USUARIO]/[REPO_2]) | Backend o sistema modular aplicando Clean Architecture, DDD o APIs. | ![Stars](https://img.shields.io/github/stars/[TU_USUARIO]/[REPO_2]?style=social) |
-| 🧪 | [NombreProyecto3](https://github.com/[TU_USUARIO]/[REPO_3]) | Laboratorio personal para probar SDD, agentes, automatización o nuevas ideas. | ![Stars](https://img.shields.io/github/stars/[TU_USUARIO]/[REPO_3]?style=social) |
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=68A063)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FFD43B)
+![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 -->
-## Stack
+---
 
-**Backend** — Python · Go · FastAPI · PostgreSQL
+### Currently
 
-**FrontEnd** — Next.js · TypeScript 
+<!--- 🚀 Developing flight software at **Aerotech Solaris**-->
+- 🧠 Building AI-powered web interfaces
+- 📐 Exploring scalable frontend architectures
 
-**IA** — LLM APIs · RAG · Orquestadores 
+---
 
-**Tools** — Git · Docker · Windows
+### GitHub Stats
 
-## Ahora mismo
+<div align="center">
 
-- 🧠 Estudiando arquitectura de software
-- 🤖 Explorando IA aplicada a producto
-- ⚙️ Construyendo proyectos para unir backend + IA
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hectorperezvicente&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=A0A0A0&icon_color=FFFFFF&count_private=true" />
 
-## Contacto
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorperezvicente&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=A0A0A0&langs_count=6" />
 
-- Email: hectorpv.official@gmail.com
+</div>
 
-**Fundamentos antes que hype. Sistemas antes que prompts.**
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hectorperezvicente&theme=tokyonight&hide_border=true&locale=es)
+### Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorpv.official@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-perez-vicente/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://hectorperez.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+*Fundamentals over hype. Systems over prompts.*
+
+</div>
