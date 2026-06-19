@@ -48,6 +48,29 @@ I build modern web applications where performance, design and intelligence conve
 
 ---
 
+### Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hectorperezvicente/hectorperezvicente/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hectorperezvicente/hectorperezvicente/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/hectorperezvicente/hectorperezvicente/output/github-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
